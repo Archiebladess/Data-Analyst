@@ -1,2 +1,1 @@
-# Nineteens
-data analyst competititon
+# data analyst competititon
