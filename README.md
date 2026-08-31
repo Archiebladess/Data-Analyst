@@ -1,5 +1,4 @@
-# data analyst competititon
-# Data Analyst Competition 2025
+# Data Analyst Competititon
 
 Project analisis sentimen komentar/review pengguna terhadap enam aplikasi AI chatbot: **GPT, Claude, Gemini, DeepSeek, Grok, dan Perplexity**.
 
